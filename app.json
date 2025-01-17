@@ -1,5 +1,5 @@
 {
-  "name": "QUEEN-LITHU-MD",
+  "name": "HASHIYA-MD",
   "description": "Javascript WhatsApp bot made by Pahasara",
   "logo": "https://ibb.co/F0ccn0P",
   "keywords": ["bot"],
@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "fqRwhIBJ#a82n68G46k5Y9sw7tJTROxfHF194R782t1aENkxNoAY",
       "required": true
     },  
 
